@@ -1,0 +1,28 @@
+---
+title: "Tu Nguyen"
+output: 
+  html_document
+---
+
+<style type="text/css">
+
+h1.title {
+  font-size: 35px;
+  font-family: Helvetica, sans-serif;
+  color: #264d73;
+}
+
+h1 { /* Header 1 */
+  font-size: 34px;
+  color: 264d73;
+}
+
+</style>
+
+<br>
+
+<left>
+<img src="images/IMG_6316.jpg" style="width:30%">
+</left>
+
+<br>
