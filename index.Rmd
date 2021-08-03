@@ -3,11 +3,16 @@ title: "Tu Nguyen"
 output: 
   html_document
 ---
+<style>
+img {
+  border: 1px solid #021a40;
+}
+</style>
 
 <style type="text/css">
 
 h1.title {
-  font-size: 35px;
+  font-size: 36px;
   font-family: Helvetica, sans-serif;
   color: #264d73;
 }
@@ -26,3 +31,5 @@ h1 { /* Header 1 */
 </left>
 
 <br>
+
+
