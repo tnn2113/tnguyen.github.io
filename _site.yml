@@ -1,0 +1,22 @@
+name: "Tu Nguyen"
+output_dir: "."
+navbar:
+  title: "Home"
+  left: 
+    - text: "Research"
+      href: research.html
+    - text: "Activities"
+      href: activities.html
+  right:
+    - icon: fa-solid fa-envelope
+      href: mailto:nguyentu9510@gmail.com
+    - text: "Resume"
+      href: resume.html
+    - icon: fa-github fa-lg
+      href: http://github.com/tnn2113/
+output:
+  html_document:
+    theme: flatly
+    include:
+      after_body: footer.html
+    css: style.css
